@@ -1,0 +1,13 @@
+AGENT: Test
+STEP
+name=dup
+prompt=p
+systemPrompt=s
+output=STRING
+ENDSTEP
+STEP
+name=dup
+prompt=p
+systemPrompt=s
+output=STRING
+ENDSTEP

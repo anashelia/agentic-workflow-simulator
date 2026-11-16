@@ -1,0 +1,7 @@
+AGENT: Loaded
+STEP
+name=s1
+prompt=p
+systemPrompt=s
+output=STRING
+ENDSTEP

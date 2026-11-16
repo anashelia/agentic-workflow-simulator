@@ -1,0 +1,12 @@
+﻿# Compiled class files
+*.class
+solution.zip
+
+# University grading tools (too big for git)
+*.jar
+check.cmd
+CheckThat.txt
+
+# IDE settings
+.vscode/
+.idea/
